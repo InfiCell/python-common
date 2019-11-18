@@ -1,6 +1,6 @@
 [submodule "cpp-common"]
 	path = cpp-common
-	url = git@github.com:Metaswitch/cpp-common.git
+	url = git@github.com:InfiCell/cpp-common.git
 [submodule "build-infra"]
 	path = build-infra
-	url = git@github.com:Metaswitch/clearwater-build-infra.git
+	url = git@github.com:InfiCell/clearwater-build-infra.git
